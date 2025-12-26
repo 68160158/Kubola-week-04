@@ -5,7 +5,7 @@ out/
 .kotlin
 .idea
 Lab04-1.iml
-
+*.iml
 
 ### Eclipse ###
 .apt_generated
